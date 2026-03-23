@@ -1,4 +1,5 @@
-## Hi there 👋
+![WIN_20260209_15_36_09_Pro](https://github.com/user-attachments/assets/d81cce5e-372c-47e3-bf0c-c4b71c1ee8b0)
+
 
 <!--
 **krismikasa/krismikasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
