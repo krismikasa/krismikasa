@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krisyle</h1>
 <h3 align="center">A passionate student from the Philippines 🇵🇭</h3>
 
-https://github.com/krismikasa/krismikasa/blob/main/SYLE.jpg?raw=true
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krisyle/krisyle/main/profile.jpg" width="180" style="border-radius:50%;" />
+</p>
 
 ---
 
