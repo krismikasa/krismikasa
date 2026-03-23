@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krisyle</h1>
 <h3 align="center">A passionate student from the Philippines 🇵🇭</h3>
 
+![Uploading WIN_20260209_15_36_09_Pro.jpg…]()
+
+
 ---
 
 ## 🌱 About Me
@@ -26,8 +29,7 @@
 ---
 
 ## 📫 Connect with Me
-- ✉️ Email: your-email@example.com  
-- 🌐 Portfolio: (optional)
+- ✉️ Email: krisylerudinas@gmail.com 
 
 ---
 
