@@ -1,18 +1,43 @@
-<h1 style="color:blue; font:family:verdana; font-size: 300%;">Krisyle Faye M. Rudinas</h1>
-![WIN_20260209_15_36_09_Pro](https://github.com/user-attachments/assets/d81cce5e-372c-47e3-bf0c-c4b71c1ee8b0)
-!
+<h1 align="center">Hi 👋, I'm Krisyle</h1>
+<h3 align="center">A passionate student from the Philippines 🇵🇭</h3>
 
-<!--
-**krismikasa/krismikasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌱 About Me
+- 🎓 STEM student interested in research and innovation  
+- 🧪 Currently working on projects like **biodegradable materials** and **pest control solutions**  
+- 📚 Love learning about science, business, and technology  
+- ✨ Goal: To create impactful and sustainable solutions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Tools
+- 💻 Basic Programming: HTML, CSS  
+- 📊 Research & Data Analysis  
+- 🧠 Critical Thinking & Problem Solving  
+- 📝 Technical Writing  
+
+---
+
+## 📌 Projects
+- 🧴 **KrafJam Co.** – Pest repellent product development  
+- 🌽 **Corn Husk Biocup** – Sustainable material research  
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="langs"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+- ✉️ Email: your-email@example.com  
+- 🌐 Portfolio: (optional)
+
+---
+
+## ✨ Fun Fact
+> I enjoy turning ideas into real-world solutions 🌍
