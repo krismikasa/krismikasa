@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krisyle</h1>
 <h3 align="center">A passionate student from the Philippines 🇵🇭</h3>
 
-<p align="center">
-  <img src="file:///C:/Users/DELL%20i5%207th%20Gen/Pictures/Camera%20Roll/WIN_20260209_15_36_09_Pro.jpg" width="200" style="border-radius:50%;" alt="profile picture"/>
-</p>
-
+![Uploading image.png…]()
 
 ---
 
