@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student from the Philippines 🇵🇭</h3>
 
 <p align="center">
-  <img src="<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e1e6a10b-7210-4a33-a12b-4f339a6d7e0c" />
+  <img src="https://raw.githubusercontent.com/krismikasa/krismikasa/main/profile.jpg" width="180" style="border-radius:50%;" />
 </p>
 
 ---
